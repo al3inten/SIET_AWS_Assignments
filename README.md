@@ -10,7 +10,7 @@ Repo for SIET AWS Assignments
 # 2 AWS Cloud Quest Badge
 
 ## Please add a screenshot of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
+> Replace thi
 
 ## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
 > Replace this line while adding the screenshot / answer
@@ -19,10 +19,11 @@ Repo for SIET AWS Assignments
 # 3 AWS 3 Tier Architecture Implementation
 
 ## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+![Screenshot 2025-03-30 164709](https://github.com/user-attachments/assets/6961d009-f858-48f6-84c8-f7ab4c4d3d1c)
+
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+https://medium.com/@albinalbi289/aws-three-tire-architecture-db6fc80f02e9
 
 
 # 4 AWS 101 Workshop
