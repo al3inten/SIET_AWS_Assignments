@@ -4,7 +4,8 @@ Repo for SIET AWS Assignments
 # 1 ETC
 
 ## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
-> Replace this line while adding the screenshot / answer
+![image](https://github.com/user-attachments/assets/4f84beea-7760-4df0-a59e-48ec02ef3cbb)
+
 
 
 # 2 AWS Cloud Quest Badge
